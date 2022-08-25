@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @olezdev
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning React
+- 🌱 Learning React and Nodejs
+- 🌱 I’m currently Aceleración Alkemy
 
 <!---
 olezdev/olezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
