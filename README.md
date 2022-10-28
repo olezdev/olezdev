@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olivera Leonardo
-- 🏃 I’m currently Aceleración Alkemy C# Backend
+- 🏃 [Aceleración Alkemy C# Backend](https://assets.alkemy.org/certificates/auth0%7C62c475a870a3683402504371/ACCELERATION_CERTIFICATE/fabf5fc1-d136-4b36-a01d-6a84ae84e25d.pdf))
 - 👀 I’m interested in javascript
 - 🌱 Learning React and Nodejs
 
