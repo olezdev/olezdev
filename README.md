@@ -6,6 +6,9 @@
 
 #### Certificates
 - 🏃 [Aceleración Alkemy C# Backend](https://assets.alkemy.org/certificates/auth0%7C62c475a870a3683402504371/ACCELERATION_CERTIFICATE/fabf5fc1-d136-4b36-a01d-6a84ae84e25d.pdf)
+- 🌐 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/olezdev/foundational-c-sharp-with-microsoft)
+- 🟡 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/olezdev/javascript-algorithms-and-data-structures)
+- 🎨 [Responsive Web Design](https://www.freecodecamp.org/certification/olezdev/responsive-web-design)
  
 <!---
 olezdev/olezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
